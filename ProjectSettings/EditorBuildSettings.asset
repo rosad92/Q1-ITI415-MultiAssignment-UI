@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Snaps Scene.unity
     guid: da78450e454ee1247b96882393777c96
+  - enabled: 1
+    path: Assets/probuilder demo.unity
+    guid: 1a6231ad9eb024b46a44d265502c6e90
   m_configObjects: {}
