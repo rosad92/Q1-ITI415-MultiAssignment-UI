@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/probuilder demo.unity
     guid: 1a6231ad9eb024b46a44d265502c6e90
+  - enabled: 1
+    path: Assets/probuilder demo 1.unity
+    guid: 7b12d1ee489c027459d498762db90b6b
   m_configObjects: {}
